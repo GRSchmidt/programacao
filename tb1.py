@@ -1,0 +1,1 @@
+print ('projeto novo')
