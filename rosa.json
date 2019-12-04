@@ -1,0 +1,100 @@
+{
+    "Mercado_rosa": {
+        "Produto": {
+            "nome_produto": "maca",
+            "valor": "2.50",
+            "cod_id": "123"
+        },
+        "Fornecedor": {
+            "nome": "Zenon Frutas",
+            "telefone": "33445566",
+            "tipo_produto": "fruta"
+        },
+        "Cliente": {
+            "nome": "Gabriel Rosa",
+            "cpf": "234567890-09",
+        },
+        "Carrinho": {
+            "quantidade": "4",
+            "produto": {
+                "nome_produto": "maçã",
+                "valor": "2.50"
+        },
+        "Caixa": {
+            "Produto": {
+                "nome_produto": "maca",
+                "valor": "2.50",
+                "cod_id": "123",
+            "Carrinho": {
+                "quantidade": "4",
+                "produto": {
+                    "nome_produto": "maçã",
+                    "valor": "2.50", 
+            "Cliente": {
+                "nome": "Gabriel Rosa",
+                "cpf": "234567890-09"
+            }
+            },
+            
+
+        "Historico_vendas": {
+            "data": "22/04/19",
+            "Caixa": {
+                "Produto": {
+                    "nome_produto": "maca",
+                    "valor": "2.50",
+                    "cod_id": "123",
+                "Carrinho": {
+                    "quantidade": "4",
+                    "produto": {
+                        "nome_produto": "maçã",
+                        "valor": "2.50", 
+                "Cliente": {
+                    "nome": "Gabriel Rosa",
+                    "cpf": "234567890-09",
+                "Cliente": {
+                        "nome": "Gabriel Rosa",
+                        "cpf": "234567890-09"
+                }
+            },
+                
+            "Funcionario": {
+                "nome": "Rose Mel",
+                "turno": "matutino",
+                "cpf": "234567890-09"
+            }
+        },
+
+        "Setor":{
+            "nom_setor": "limpeza"
+           
+        },
+
+        "Estoque":{
+            "Produto": {
+                "nome_produto": "maca",
+                "valor": "2.50",
+                "cod_id": "123",
+            "Fornecedor": {
+                "nome": "Zenon Frutas",
+                "telefone": "33445566",
+                "tipo_produto": "fruta",
+            "quantidade":"100"
+        },
+
+
+        "Mercado": {
+            "Nome": "Rede Top",
+            "Setor": {
+                "nom_setor": "limpeza",
+            "Funcionario": {
+                "nome": "Rose Mel",
+                "turno": "matutino",
+                "cpf": "234567890-09"
+    
+            },
+            
+            
+        }
+    }
+}  
